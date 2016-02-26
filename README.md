@@ -1,1 +1,1 @@
-Magento Helloworld Module Demo
+Magento 2 Helloworld Module Demo
